@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a1d26fa-b3c9-43bd-9b49-e060aa520480" name="Default Changelist" comment="it">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9a1d26fa-b3c9-43bd-9b49-e060aa520480" name="Default Changelist" comment="it" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ckwpAJHyWTI4EQKmYAcqGdjUvE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -178,6 +177,7 @@
       <workItem from="1567733848816" duration="3546000" />
       <workItem from="1569826101787" duration="1881000" />
       <workItem from="1591086082550" duration="68000" />
+      <workItem from="1591273716322" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="fix api.">
       <created>1564568872944</created>
@@ -206,7 +206,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
